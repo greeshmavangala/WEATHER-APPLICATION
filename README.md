@@ -80,6 +80,10 @@ copy api from this and place it in .env file
 
 # Output 
 
+![Image](https://github.com/user-attachments/assets/831517cb-2445-4131-a8c1-ec66cefb893c)
+
+
+![Image](https://github.com/user-attachments/assets/3d67dfd1-52c9-4b89-99f1-a587c92b0e81)
 
 
 
